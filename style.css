@@ -1,0 +1,50 @@
+h1#h1especial {
+    color: #5a0b08;
+}
+
+h1#h1especial {
+    text-align: center;
+}
+
+body.fondo {
+    background-color: #f5e3cd;
+}
+
+a.tamañotxt {
+    font-size: x-large;
+}
+
+img.tamañoimg {
+    height: 100px;
+    width: 100px;
+}
+
+div.textoespecial {
+    font-size: x-large;
+    text-align: center
+    
+}
+
+img.tamañoimg2 {
+    height: 100px;
+    width: 100px;
+    middle
+}
+
+a.colortexto {
+    color: #9f5b55;
+}
+
+img.tamañoimg3 {
+    height: 100px;
+    width: 100px;
+}
+
+div.textoespecial2 {
+    font-size: x-large;
+    text-align: right;
+}
+
+a.colortexto2 {
+    color: #9f5b55 ;
+}
